@@ -97,22 +97,22 @@ const config = {
               },
             ],
           },
-          
+
           {
-            title: 'More',
+            title: 'Acerca de nós',
             items: [
               {
-                label: 'Blog',
+                label: 'Acerca de nós',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/a85256/TP3',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Oficina dos Zés`,
       },
       prism: {
         theme: lightCodeTheme,
