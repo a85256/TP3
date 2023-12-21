@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Na Oficina dos Zés, reconhecemos a importância da visibilidade clara para a segurança e o prazer de dirigir. Apresentamos nosso Limpa Vidros de Alta Performance para carros e motos, uma solução eficaz para manter seus vidros impecavelmente limpos em todas as condições.
 
-![Garrafão para limpa vidros](image.png)
+
 
 ## Características do Limpa Vidros:
 

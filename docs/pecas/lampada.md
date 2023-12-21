@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Na Oficina dos Zés, entendemos que uma iluminação eficiente é crucial para a segurança e desempenho do seu veículo. Apresentamos nossa linha de lâmpadas de alta qualidade para carros e motos, projetadas para proporcionar visibilidade excepcional em todas as condições.
 
-![Lâmpadas](image-1.png)
+
 
 ## Características das Nossas Lâmpadas:
 
