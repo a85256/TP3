@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Na Oficina dos Zés, compreendemos a importância de pneus versáteis que ofereçam desempenho consistente em todas as condições climáticas. Apresentamos nossos serviços especializados de troca de pneus 4 estações para carros e motos, proporcionando segurança e confiança durante todo o ano, independentemente das variações climáticas.
 
-
+![Alt text](image-2.png)
 
 ## Serviços de Pneus 4 Estações:
 

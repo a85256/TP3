@@ -7,7 +7,7 @@ sidebar_position: 10
 
 Na Oficina dos Zés, entendemos que amortecedores desgastados podem comprometer não apenas o conforto da sua viagem, mas também a segurança do seu veículo. Oferecemos serviços especializados de substituição e manutenção de amortecedores para carros e motos, garantindo uma condução suave e controle excepcional em cada curva.
 
-
+![Alt text](image.png)
 
 ## Serviços de Amortecedores:
 

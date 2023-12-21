@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-
+![Alt text](image-1.png)
 
 # Montagem de Baterias para Carros e Motos 
 

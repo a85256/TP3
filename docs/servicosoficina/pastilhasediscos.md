@@ -6,7 +6,7 @@ sidebar_position: 11
 
 Na Oficina dos Zés, compreendemos a importância de um sistema de freios eficiente para a sua segurança e a de seus passageiros. Oferecemos serviços especializados de troca de pastilhas e discos para carros e motos, garantindo que seu veículo pare com confiança e controle em todas as situações.
 
-
+![Alt text](image-3.png)
 
 ## Serviços de Freios:
 

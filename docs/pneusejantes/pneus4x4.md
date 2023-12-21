@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Na Oficina dos Zés, reconhecemos a necessidade de pneus robustos e preparados para enfrentar uma variedade de terrenos. Apresentamos nossos serviços especializados de troca de pneus 4x4 para carros e motos, proporcionando desempenho off-road e confiabilidade em qualquer aventura.
 
-
+![Alt text](image-1.png)
 
 ## Serviços de Pneus 4x4:
 

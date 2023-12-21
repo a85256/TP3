@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Na Oficina dos Zés, reconhecemos as demandas específicas dos veículos elétricos e a importância de pneus projetados para otimizar sua eficiência e desempenho. Apresentamos nossos serviços especializados de troca de pneus para carros elétricos, proporcionando uma condução suave, silenciosa e ambientalmente consciente.
 
-
+![Alt text](image.png)
 
 ## Serviços de Pneus para Carros Elétricos:
 

@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Na Oficina dos Zés, compreendemos a importância dos pneus certos para garantir uma condução segura e eficiente durante a temporada de verão. Oferecemos serviços especializados de troca de pneus de verão para carros e motos, proporcionando aderência confiável e desempenho excepcional nas condições quentes e secas.
 
-
+![Alt text](image-3.png)
 
 ## Serviços de Pneus de Verão:
 
