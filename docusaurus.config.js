@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oficina dos Zés',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Venda os seus carros e compre peças aqui!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'masaleiro', // Usually your GitHub org/user name.
+  organizationName: 'a85256', // Usually your GitHub org/user name.
   projectName: 'docusaurus-ghpages', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -65,10 +65,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Nosso site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo_oz.png',
         },
         items: [
           {
