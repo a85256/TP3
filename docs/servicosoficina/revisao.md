@@ -1,37 +1,59 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
+# Revisão  para todo o Tipo de Carros e Motas
+Bem-vindo à Oficina dos Zés
 
-# Troca de Pneus de Verão para Carros e Motos
-
-Na Oficina dos Zés, compreendemos a importância dos pneus certos para garantir uma condução segura e eficiente durante a temporada de verão. Oferecemos serviços especializados de troca de pneus de verão para carros e motos, proporcionando aderência confiável e desempenho excepcional nas condições quentes e secas.
+Na Oficina dos Zés, estamos comprometidos em oferecer serviços automotivos de alta qualidade a preços acessíveis. Entendemos que manter seu veículo em ótimo estado não deve ser um luxo inatingível. Aqui, você encontrará uma lista abrangente de nossos serviços, cuidadosamente elaborados para atender às necessidades do seu carro e do seu bolso.
 
 
 
-## Serviços de Pneus de Verão:
+## Serviços e Preços:
 
-### 1.Troca de Pneus de Verão para Carros - A partir de 30€  por conjunto:
+### 1.Revisão Automotiva Completa - 250€:
 
-- Seleção de pneus de verão de marcas confiáveis
-- Montagem e balanceamento profissionais para um desempenho suave
-- Inspeção adicional de alinhamento e geometria (se necessário)
-### 2.Troca de Pneus de Verão para Motos - A partir de R25€ por conjunto:
+- Diagnóstico abrangente
+- Troca de óleo e filtros
+- Verificação de fluidos
+- Inspeção de freios e pneus
+- Sistema de direção e suspensão
+- Sistema elétrico
 
-- Pneus de verão otimizados para a estabilidade e aderência em estradas quentes
-- Montagem especializada para garantir a segurança e o controle na pilotagem
-- Verificação do equilíbrio e pressão dos pneus
+### 2.Troca de Óleo e Filtros - 70€:
 
-## Por que Escolher a Oficina dos Zés para Troca de Pneus de Verão?
+- Óleo de alta qualidade
+- Filtros de óleo e ar substituídos
+- Lubrificação de componentes essenciais
 
-Especialistas em Pneus: Nossa equipe é especializada em orientar os clientes na escolha dos pneus certos para suas necessidades específicas.
+### 3.Alinhamento e Balanceamento - 40€:
 
-Variedade de Marcas: Oferecemos uma variedade de marcas e modelos de pneus para atender às preferências e orçamentos dos clientes.
+- Alinhamento preciso para melhor estabilidade
+- Balanceamento para uma condução suave
 
-Serviço Rápido e Eficiente: Realizamos a troca de pneus de verão de maneira rápida e eficiente para que você volte à estrada com tranquilidade.
+### 4.Troca de Pastilhas de Freio - 50€:
 
-Preços Transparentes: Apresentamos preços claros e competitivos, sem surpresas no final.
+- Pastilhas de freio de qualidade premium
+- Verificação do sistema de freios
 
-Garantia de Serviço: Oferecemos garantia na troca de pneus de verão para sua tranquilidade.
+### 5.Troca de Bateria - 150€:
 
-Na Oficina dos Zés, acreditamos que pneus adequados são essenciais para uma condução segura e confortável. Confie em nós para fornecer pneus de verão de qualidade, garantindo que seu veículo esteja preparado para enfrentar as altas temperaturas. Agende sua troca de pneus de verão hoje e experimente uma condução segura e tranquila.
+- Baterias confiáveis e duradouras
+- Teste e diagnóstico do sistema elétrico
+
+### 6.Serviço de Ar Condicionado - 100€:
+
+- Recarga de gás refrigerante
+- Limpeza e desinfecção do sistema
+
+## Por que Escolher a Oficina do Zés?
+
+Transparência de Preços: Nossos preços são claros e competitivos, sem surpresas no final.
+
+Profissionalismo Garantido: Contamos com uma equipe experiente e qualificada para cuidar do seu carro.
+
+Garantia de Qualidade: Utilizamos peças de alta qualidade e garantimos a excelência em cada serviço prestado.
+
+Orçamento Personalizado: Seu veículo merece um cuidado específico. Oferecemos orçamentos personalizados para atender às suas necessidades.
+
+Na Oficina dos Zés, acreditamos que a manutenção automotiva de qualidade não precisa ser cara. Confie em nós para manter seu carro em perfeitas condições, sem comprometer seu orçamento. Agende seu serviço hoje e experimente a diferença de um serviço confiável a preços justos!
