@@ -10,32 +10,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Reparação automóvel',
     Svg: require('@site/static/img/undraw_automobile_repair_ywci.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Na Oficina dos Zés, temos o melhor serviço automóvel a nível global.
+        
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Foco no trabalho',
     Svg: require('@site/static/img/undraw_engineering_team_a7n2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Na Oficina dos Zés, os nossos objetivos são claros. Dedicamo-nos
+        ao trabalho e ao cliente e não descansamos enquanto não terminamos o nosso trabalho enquanto
+        os clientes não tiverem satisfeitos
+        
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Ambiente de trabalho relaxado',
+    Svg: require('@site/static/img/undraw_relaxation_re_ohkx.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Na Oficina dos Zés temos um ambiente de trabalho relaxadíssimo,
+        por isso não precisa de se preocupar com algo que faça de errado ou com chatices
+        em contexto de trabalho
+        
       </>
     ),
   },
