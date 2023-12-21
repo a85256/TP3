@@ -1,5 +1,5 @@
 ---
-slug: Trabalhadores
+slug: Trabalhadores3
 title: O 3ª Fundador da Empresa
 authors:
   name: Afonso Tavares

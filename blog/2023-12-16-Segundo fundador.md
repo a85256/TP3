@@ -1,5 +1,5 @@
 ---
-slug: Trabalhadores
+slug: Trabalhadores2
 title: O 2ª Fundador da Empresa
 authors:
   name: Ruben Guerreiro

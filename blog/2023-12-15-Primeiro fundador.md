@@ -1,5 +1,5 @@
 ---
-slug: Trabalhadores
+slug: Trabalhadores1
 title: O 1ª Fundador da Empresa
 authors:
   name: Daniel Martins
