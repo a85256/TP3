@@ -32,6 +32,6 @@ Ruben Guerreiro: Onde a paixão e a experiência se encontram para criar o camin
 Entre em Contato:
 [923412323]
 
-
+![Alt text](image-2.png)
 
 Estamos ansiosos para ser parte da sua próxima história automotiva emocionante!

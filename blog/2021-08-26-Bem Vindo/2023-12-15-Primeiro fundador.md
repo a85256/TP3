@@ -31,6 +31,6 @@ Daniel Martins: Onde cada venda é uma experiência, e cada cliente é parte da 
 Entre em Contato:
 [912392131]
 
-
+![Alt text](image-1.png)
 
 Estamos ansiosos para fazer parte da sua próxima aventura automotiva!

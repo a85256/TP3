@@ -31,6 +31,6 @@ Afonso: Onde a paixão e o profissionalismo se unem para criar jornadas automoti
 Entre em Contato:
 [912321342]
 
-
+![Alt text](image-3.png)
 
 Estamos ansiosos para ser parte da sua próxima aventura automotiva!

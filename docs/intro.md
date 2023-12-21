@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Alt text](image.png)
+
 # Introdução
 ## Bem-vindo à Oficina dos Zés - O Seu Destino para Cuidados Automotivos de Qualidade!
 Na Oficina dos Zés, acreditamos que cada carro merece ser tratado com o máximo de cuidado e atenção. Somos apaixonados por veículos e comprometidos em oferecer serviços de alta qualidade que garantem o desempenho, a segurança e a confiabilidade do seu automóvel.
