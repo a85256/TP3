@@ -1,7 +1,8 @@
 {
-  "label": "Pneus e jantes",
-  "position": 3,
+  "label": "Serviços de Oficina",
+  "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "OS melhores Serviços"
   }
 }
